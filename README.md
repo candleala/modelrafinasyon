@@ -1,2 +1,1 @@
-# modelrafinasyon
-calisma
+# stok
